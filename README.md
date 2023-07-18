@@ -44,8 +44,7 @@
 </section>
 <footer>
     <img src="http://www.intro-webdesign.com/images/newlogo.png" alt="WebDesign">
-    this page was created by Gaurav oli & Colleen can Lent
-    To learn more about web design, visit
+    this page was created by Gaurav oli & 
     <a href="http://www.intro-webdesign.com/">Intro to Web Design</a>
 </footer>
 
